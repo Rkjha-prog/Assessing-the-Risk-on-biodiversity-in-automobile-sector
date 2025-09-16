@@ -1,0 +1,5 @@
+This repository documents my summer internship project at Ashok Leyland, where I conducted a Biodiversity Risk Assessment (BRA) to evaluate the ecological impact of industrial operations. The study focused on identifying, analyzing, and prioritizing risks associated with biodiversity loss across operational and supply chain activities.
+
+Key tasks included collecting secondary environmental data, mapping sensitive ecological zones, and applying global risk assessment frameworks to quantify potential biodiversity threats. Special attention was given to aligning the assessment with Sustainability Development Goals (SDGs) and corporate ESG reporting practices.
+
+The project outcomes provide actionable insights for developing mitigation strategies, enhancing environmental stewardship, and integrating biodiversity considerations into future business decisions. This repository includes research methodology, analytical models, and summarized findings that demonstrate the role of biodiversity assessments in advancing sustainable manufacturing.
